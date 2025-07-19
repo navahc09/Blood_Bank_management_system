@@ -1,7 +1,5 @@
 # Blood Bank Management System
 
-> **Group Project Notice**
->
 > This repository is my fork of a group academic project. The original repository, containing the collaborative work of all team members, can be found at: [Ashmit-Borawake/Blood_Bank](https://github.com/Ashmit-Borawake/Blood_Bank).
 
 ---
