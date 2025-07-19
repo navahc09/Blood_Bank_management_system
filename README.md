@@ -34,12 +34,12 @@ This project is a comprehensive Blood Bank Management System developed as part o
 
 This project was a collaborative effort by a team of four students. We worked together on the design, development, and testing phases.
 
-* **Ashmit Borawake**
 * **Shubham Chavan (Me)**
-* **Vedant Dhere**
+* **Ashmit Borawake**
+* **Kaushal Chaudhari**
 * **Atharva Chaudhari**
 
-My primary contributions involved developing key components of the React frontend, designing parts of the SQL database schema, and integrating the frontend with backend APIs.
+My primary contributions included leading the initial project conceptualization, designing the complete database schema and ER diagrams, and developing backend API endpoints for core functionalities.
 
 ---
 
